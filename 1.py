@@ -1,6 +1,6 @@
 name = "Aditya Tiwari"
 age = 18
-gender = "male"
-print("my name is ;", name)
-print(age)
-print(gender)
+gender = "Male"
+print("My name is:",name)
+print("Age:", age)
+print("Gender:", gender)
