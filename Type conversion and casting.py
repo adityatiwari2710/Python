@@ -17,7 +17,7 @@ b = 3.35
 sum2 = a + b
 print(sum2)
 
-# we can also convert something in string for eg
+# we can also convert anything in string for eg.
 a = 2.14
 a = str(a)
 print(type(a))
