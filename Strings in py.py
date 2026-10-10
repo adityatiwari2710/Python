@@ -3,7 +3,7 @@
 # \n : it is used for changing the line.
 a = "This is my college.\nMy section is AIML A"
 print(a)
-# \t : it is used to add space between the line
+# \t : it is used to add space between the line, it uses 4 spaces.
 b = "this is my college.\tand my section is AIML A"
 print(b)
 # Concatenation : adding two strings is called concatenation
